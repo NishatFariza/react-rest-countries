@@ -5,3 +5,7 @@
   border-radius: 2rem;
   background-color: lightseagreen;
 }
+
+.country img {
+  width: 8rem;
+}
